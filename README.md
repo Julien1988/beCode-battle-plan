@@ -40,6 +40,12 @@
     ## Days next days:
 
     - Update of my **CV** ==> DONE
-    - Update of my **CV** Portfolio in **react** with **Tree.JS** on **githubpage** ==> DONE
+    - Update of my **CV** Portfolio in **react** with **Tree.JS** on **githubpage** ==> DONE https://julien-broens-cv.netlify.app/
     - Search for a **internship location** ==> DONE
-    - working on my personal project with Angular.
+    - discover Angular => DONE https://github.com/Julien1988/learn-angular-blog
+    - working on my personal project with Angular. ==> https://github.com/Julien1988/geo-look & https://github.com/Julien1988/geo-look-02
+    - work on php with regEx in a form => DONE https://github.com/Julien1988/date-formatting-php
+    - dev with node.JS => https://github.com/Julien1988/things-from-the-flood-scenario-generator-fr & https://www.npmjs.com/package/things-from-the-flood-scenario-generator-fr
+    
+    
+    
